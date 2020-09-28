@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 958775729ljz@gmail.com
 
 ![Jizhou's github stats](https://github-readme-stats.vercel.app/api?username=legends-killer&show_icons=true&theme=tokyonight&count_private=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legends-killer&layout=compact) -->
