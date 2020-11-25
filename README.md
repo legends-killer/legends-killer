@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on FrontEnd, VideoEncoding, iOS Developing.
 - 🌱 I’m currently learning Vue.js, Node.js, Python, SwiftUI.
 - 📫 How to reach me: 958775729ljz@gmail.com
+- ✨ My Blog: https://www.legends-killer.cq.cn
 
 ![Jizhou's github stats](https://github-readme-stats.vercel.app/api?username=legends-killer&show_icons=true&theme=tokyonight&count_private=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legends-killer&layout=compact) -->
