@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on FrontEnd, VideoEncoding, iOS Developing.
+- 🔭 I’m currently working on FrontEnd, VideoEncoding, iOS Development.
 - 🌱 I’m currently learning Vue.js, Node.js, Python, SwiftUI.
 - 📫 How to reach me: 958775729ljz@gmail.com
 - ✨ My Blog: https://www.legends-killer.cq.cn
