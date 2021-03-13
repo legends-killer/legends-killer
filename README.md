@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on FrontEnd, VideoEncoding, iOS Development.
-- 🌱 I konw little about Vue.js, Node.js(mainly Egg.js), Svelte.js, Python, SwiftUI.
+- 🌱 I konw nothing about Vue.js, Node.js(mainly Egg.js), Svelte.js, Python, SwiftUI.
 - 📫 How to reach me: 958775729ljz@gmail.com
 - ✨ My Blog: https://www.legends-killer.cq.cn
 
