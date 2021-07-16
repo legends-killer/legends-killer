@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on WebDev, ~~~VideoEncoding, iOS Dev~~~.
+- 🔭 I’m currently working on WebDev, ~~VideoEncoding, iOS Dev~~.
 - 🌱 I know nothing about Vue.js, React.js, Node.js, Svelte.js, Python, SwiftUI.
 - 📫 How to reach me: (958775729ljz#gmail.com).replace('#','@')
 - ✨ My Blog: https://www.legends-killer.cq.cn
