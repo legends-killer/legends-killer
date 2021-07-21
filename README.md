@@ -6,7 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on WebDev, ~~VideoEncoding, iOS Dev~~.
-- 🌱 I know nothing about ![](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript)
+- 🌱 I know nothing about these following things:
+
+- ![](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Vue.js-white?style=flat&logo=vue.js)
 ![](https://img.shields.io/badge/React.js-white?style=flat&logo=react)
