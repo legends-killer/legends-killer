@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/SwiftUI-gray?style=flat&logo=swift)
 ![](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
 ![](https://img.shields.io/badge/Docker-gray?style=flat&logo=docker)
-- 📫 How to reach me: (yyy#legends-killer.cq.cn).replace('#','@')
+- 📫 How to reach me: 'yyy#legends-killer.cq.cn'.replace('#','@')
 - ✨ My Blog: https://www.legends-killer.cq.cn
 - 🎹 Fall in love with ACG-Oriented Programming & Music. (* ╹▽╹ *)
 
