@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ✨ My Blog: https://www.legends-killer.cq.cn
 - 🎹 Fall in love with ACG-Oriented Programming & Music. (* ╹▽╹ *)
 <!-- ![Jizhou's github stats](https://github-readme-stats.vercel.app/api?username=legends-killer&show_icons=true&theme=tokyonight&count_private=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legends-killer&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legends-killer&layout=compact)
 
 
 
