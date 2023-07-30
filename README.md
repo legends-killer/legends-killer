@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on WebDev, ~~VideoEncoding, iOS Dev~~.
+- 🔭 I’m currently working on Java & Node.js.
 - 🌱 I know nothing about these following things:
 
 - ![](https://img.shields.io/badge/TypeScript-gray?style=flat&logo=typescript)
