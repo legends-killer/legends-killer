@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Java & Node.js.
-- 🌱 I know nothing about these following things:
+- 🔭 I’m currently exploring LLM & Rust.
+- 🌱 Maybe I can work with the following things:
 
 - ![](https://img.shields.io/badge/TypeScript-gray?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript)
