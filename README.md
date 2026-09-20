@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently exploring LLM & Rust.
+- 🔭 I’m currently building AI Agents in a startup.
 - 🌱 Maybe I can work with the following things:
 
 - ![](https://img.shields.io/badge/TypeScript-gray?style=flat&logo=typescript)
